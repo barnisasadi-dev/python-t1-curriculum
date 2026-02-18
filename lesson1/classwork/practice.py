@@ -21,4 +21,5 @@
 
 # Problem 5
 # Create 3 variables: your first name, your age, and your favorite color.
-# Print them on the same line in a full sentence.
+# Print them on the same line in a fu
+# =ll sentence.
