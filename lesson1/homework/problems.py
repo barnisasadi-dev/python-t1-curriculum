@@ -6,7 +6,7 @@ print ("My lucky number is", n)
 # Problem 2
 # Create a variable for the number of hours you sleep and print it.
 H = 9
-print ("i sleep", H, "hours a day")
+print ("I sleep", H, "hours a day")
 
 # Problem 3
 # Create a variable for your favorite fruit and print it in a full sentence.
@@ -19,7 +19,7 @@ print ("my favorite fruit is", favorite_fruit)
 city = "Seattle"
 Country = "United States"
 print ("I live in", city,)
-print ("in", Country)
+print ("In", Country)
 # Problem 5
 # Create 3 variables: your pet's name, its age, and its type.
 # Print them on the same line in a full sentence.
