@@ -1,14 +1,19 @@
 # Homework Problem 1
 # Ask the user for two numbers.
 # Print their quotient and remainder on separate lines.
-
-
+number1 = int(input ("enter your first number"))
+number2 = int(input ("enter your second number"))
+quotient = number1 // number2
+remainder = number1 % number2
+print("quotient", quotient)
+print("remainder", remainder)
 
 # Homework Problem 2
 # Ask the user for their favorite animal and favorite color.
 # Print a sentence combining them like: "A blue tiger would be awesome!"
-
-
+animal = input("whats your favorite animal")
+color = input("whats your favorite color")
+print("my favorite animal is " , animal +  "and my favorite color is ", color)
 
 # Homework Problem 3
 # Use a for loop to print all the even numbers from 0 to 10 (including 10).
@@ -18,6 +23,9 @@
 # Homework Problem 4
 # Ask the user how many push-ups they can do.
 # Multiply it by 7 and print how many they could do in a week.
+number = int(input ("how many push-ups can you do"))
+push_ups = number * 7
+print("you can do " , push_ups, "in a week")
 
 
 
