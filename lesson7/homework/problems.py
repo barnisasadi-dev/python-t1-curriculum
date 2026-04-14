@@ -1,6 +1,6 @@
 # Problem 1
 # Find and print the sum of all the numbers greater than 25 in the list.
-numbers = [10, 32, 27, 8, 50]
+numbers = [10, 32, 27, 8, 51]
 total = 0
 for num in numbers:
     if num > 25:
