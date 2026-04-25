@@ -10,7 +10,7 @@ while count < 4:
 # Use a while loop to print the even numbers from 2 to 12 (inclusive).
 
 number = 2
-while number <= 10:
+while number <= 12:
     print(number)
     number += 2
 
@@ -52,9 +52,3 @@ while start_number > 0:
 # Problem 5
 # Create a list of your three favorite animals.
 # Use a while loop to print each animal with the text "is awesome!" after it.
-
-favorite_animals = ["bunnies", "dolphins", "cats"]
-index = 0  
-while index < len(favorite_animals):   
-    print(f"{favorite_animals[index]} is awesome!")     
-    index += 1
